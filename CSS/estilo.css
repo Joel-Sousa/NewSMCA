@@ -1,0 +1,107 @@
+
+* {
+	margin:0;
+	padding:3;
+}
+body{
+    background-color:#87CEFA;
+}
+
+ul li {
+	list-style-type:none;
+	display:inline;
+	padding-left:15px;
+	padding-right:15px;
+	background-color:#000000;
+	font-family:"trebuchet ms", arial, helvetica, sans-serif;
+	font-size:20px;
+	color:#ffffff;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	cursor:poiter;
+}
+
+ul li a{ 
+	font-family:"trebuchet ms", arial, helvetica, sans-serif;
+	font-size:20px;
+	color:#ffffff;
+	text-decoration:none;
+	cursor:poiter;
+}
+
+ul li:hover {
+	background-color:#00ffff;
+}
+
+.txt{
+	height: 30px;
+	width: 200px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+	padding: 4px;
+}
+
+.txt:hover{
+	background-color: #CCC;
+}
+
+.txt1{
+	height: 30px;
+	width: 120px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+	padding: 4px;
+}
+
+.txt1:hover{
+	background-color: #CCC;
+}
+
+.btp{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 40px;
+	border: 1px solid #CCC;
+}
+
+.btp:hover{
+	background-color: #CCC;
+}
+/*data*/
+.d1{
+	width: 40px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 10px;
+	border: 1px solid #CCC;
+}
+
+.d1:hover{
+	background-color: #CCC;
+}
+.d2{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 10px;
+	border: 1px solid #CCC;
+}
+
+.d2:hover{
+	background-color: #CCC;
+}
+.d3{
+	width: 50px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 10px;
+	border: 1px solid #CCC;
+}
+
+.d3:hover{
+	background-color: #CCC;
+}
